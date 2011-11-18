@@ -31,10 +31,12 @@ Now you have to open the `index.html` and put your username on it.
 
 Easy, huh?
 
+*Just remember that may take up to 10 minutes to Github activate pages for your account.
+
 Credits
 ---------------
 * jQuery plugin built with [jQuery Boilerplate](http://jqueryboilerplate.com/)
-* Responsive design inspired by [Dinosaurs with Laserz](http://dinosaurswithlserz.com/)
+* Responsive design inspired by [Dinosaurs with Laserz](http://dinosaurswithlaserz.com/)
 
 License
 ---------------
